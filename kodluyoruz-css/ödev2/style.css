@@ -1,0 +1,34 @@
+tr {
+    
+    width: 100%;
+}
+
+div {
+    
+    text-align: center;
+}
+
+tr.searchbar {
+    width: 100%;
+    background-color: #EEEEEE;
+    
+}
+
+td.ss {
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+td.he { 
+    background-color: #70CCC2;
+}
+
+td.gg { 
+    background-color: #62B3AA;
+}
+
+table {
+    margin: auto;
+    width: 90%
+}
+
