@@ -13,6 +13,9 @@ home page
 product page
 ![css-ödev1](img/product.png)
 
+# css ödev2
+![css-ödev2](img/task2.png)
+
 
 
 
