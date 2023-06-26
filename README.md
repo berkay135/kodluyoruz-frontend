@@ -16,6 +16,9 @@ product page
 # css ödev2
 ![css-ödev2](img/task2.png)
 
+# css ödev3
+![css-ödev3](img/googleGüncelAnasayfa.png)
+
 
 
 
